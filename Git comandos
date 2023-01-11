@@ -1,13 +1,13 @@
                         [Comandos git]  
   
-Relacionados a branch
+                      Relacionados a branch
 Git branch = lista todas as branchs
 git branch + nome da branch = cria uma nova branch
 git branch -D + nome da branch = exclue uma branch
 Git Branch -v = listar branchs com os ultimos commits
 Git checkout -B +nome da branch = cria uma branch e ja entra nela
 sai da branch -> git checkout master -> git branch -d + nome da brach
-Commit
+                     Commit
 git log = lista commits
 Git log -p = lista os dois ultimos commits com detalhes dos arquivos
 Git Add = Adicionar arquivos ao rastreamento do git / indice
@@ -15,10 +15,14 @@ Git restore = --staged nome do arquivo -> voltar ao estagio inicial /t
 Git Status = mostra o estado da arvore de trabalho exibe arquivos alterados exibe arquivos criados
 Git Push = Empurrar do repositorio local para o repositorio remoto
 Git Pull Request = solicitacao de aprovacao do codigo par ao administrador
-Alterações
+                       Alterações
 Git diff Mostra modificações e alterações feitas em algum arquivo com mais detalhes.
 git co + <nome do arquivo> limpa alterações feitas nos arquivos.
 git reset HEAD = Permite que voce deixe um arquivo novamente
 Git log  mostra a lista de commits de forma mais detalhada.
 git log --oneline mostra a mesma lista de maneira mais simples.
 git log --oneline --graph --all = Mostra ramificações.
+
+
+
+
