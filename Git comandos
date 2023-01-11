@@ -22,7 +22,3 @@ git reset HEAD = Permite que voce deixe um arquivo novamente
 Git log  mostra a lista de commits de forma mais detalhada.
 git log --oneline mostra a mesma lista de maneira mais simples.
 git log --oneline --graph --all = Mostra ramificações.
-
-
-
-
