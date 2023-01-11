@@ -1,5 +1,5 @@
                         [Comandos git]  
-  1 month ago
+  
 Relacionados a branch
 Git branch = lista todas as branchs
 git branch + nome da branch = cria uma nova branch
@@ -21,4 +21,4 @@ git co + <nome do arquivo> limpa alterações feitas nos arquivos.
 git reset HEAD = Permite que voce deixe um arquivo novamente
 Git log  mostra a lista de commits de forma mais detalhada.
 git log --oneline mostra a mesma lista de maneira mais simples.
-git log --oneline --graph --all = Mostra ramificações. (edited) 
+git log --oneline --graph --all = Mostra ramificações.
